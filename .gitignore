@@ -1,0 +1,130 @@
+# ASP.NET API
+bin
+obj
+
+# User-specific files
+.suo
+.user
+.userosscache
+.sln.docstates
+
+# Compiled source
+.com
+.class
+.dll
+.exe
+.pdb
+.dll.config
+.exe.config
+
+# NuGet
+.nuget
+.nupkg
+.paket
+paket-files
+
+# User-specific files
+.suo
+.user
+.userosscache
+.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN
+
+# VS Code directories
+.vscode
+
+# Windows Installer files
+.cab
+.msi
+.msm
+.msp
+
+# Windows shortcuts
+.lnk
+
+# JetBrains Rider
+.idea
+
+# User-specific files
+.suo
+.user
+.userosscache
+.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN
+
+# VS Code directories
+.vscode
+
+# Windows Installer files
+.cab
+.msi
+.msm
+.msp
+
+# Windows shortcuts
+.lnk
+
+# Visual Studio for Mac
+.vscode
+.idea
+
+# Rider
+.idea
+
+# User-specific files
+.suo
+.user
+.userosscache
+.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN
+
+# VS Code directories
+.vscode
+
+# Windows Installer files
+.cab
+.msi
+.msm
+.msp
+
+# Windows shortcuts
+.lnk
+
+
+
